@@ -1,0 +1,5 @@
+Full name: Brilewskaya Anastasiya Valerewna
+	Age: 25,
+	Pets: 1 cat,
+	Future salary: 1 000 000 $.
+

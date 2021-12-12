@@ -1,0 +1,4 @@
+Film: 1+1,
+	Series: Chernaya lyubov,
+	Time of season: Summer,
+	Counry: Thai.
